@@ -11,6 +11,8 @@ This project is a simple library management system built using Quarkus. It provi
 3. In-Memory H2 Database: A lightweight, in-memory database used for development and testing. No 						  configuration is required.
 4. JBoss Logging: Integrated logging framework used for application logging and debugging.
 
+IMPORTANT NOTE: To run quarkus app, minimum Java 17 version is required.
+
 ## Endpoints Defined
 
 1. Add New Book
